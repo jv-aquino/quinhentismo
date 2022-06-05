@@ -1,3 +1,5 @@
 # Quinhentismo 📝
-### Aproveitei de um projeto escolar para colocar os conhecimentos que eu adquiri no curso Responsive Web Design do FCC para realizar um trabalho escolar sobre o movimento literário do Quinhentismo 📕
-### Esse projeto demandou bastante esforço (pois foram usados HTML5 e CSS3 puros durante todo o projeto), mas vê-lo pronto me deu uma satisfação inexplicável. Espero que goste!
+### I took the oportunity of a school project to use the knowledge I acquired in the FCC's Responsive Web Design course to do a web project about the literary movement of the Quinhentismo 📕
+### This project took a lot of effort (because pure HTML5 and CSS3 were used throughout), but seeing it done gave me inexplicable satisfaction. I hope you enjoy it!
+*lang = pt-br*<br>
+**[View page](https://jv-aquino.github.io/quinhentismo/)**
